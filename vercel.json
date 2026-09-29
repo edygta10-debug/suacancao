@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/w",
+      "destination": "https://wa.me/5571992884162?text=Ol%C3%A1!%20Quero%20criar%20minha%20m%C3%BAsica%20personalizada%20por%20R%24%209%2C90%20%F0%9F%8E%B5",
+      "permanent": false
+    },
+    {
+      "source": "/whatsapp",
+      "destination": "https://wa.me/5571992884162?text=Ol%C3%A1!%20Quero%20criar%20minha%20m%C3%BAsica%20personalizada%20por%20R%24%209%2C90%20%F0%9F%8E%B5",
+      "permanent": false
+    }
+  ]
+}
